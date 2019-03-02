@@ -1,0 +1,20 @@
+package arrays;
+
+public class Array1 {
+
+	public static void main(String[] args) 
+	{
+		String[] str= new String[4];		
+		str[0]="Swapnil";
+		str[1]="Pradnya";
+		str[2]="Anjali";
+		str[3]="Roopali";
+		
+		
+		
+		
+		
+
+	}
+
+}

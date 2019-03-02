@@ -1,0 +1,13 @@
+package arrays;
+
+public class Array2 {
+
+	public static void main(String[] args) 
+	{
+		String[][] str= new String[3][2];
+		
+		
+
+	}
+
+}

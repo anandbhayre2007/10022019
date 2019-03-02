@@ -1,0 +1,20 @@
+package stringClass;
+
+public class Str1 {
+
+	public static void main(String[] args) 
+	{
+		String str=" anand ";
+		
+		//Length
+		System.out.println(str.length());
+		
+		//Trim
+		System.out.println(str.trim());
+		
+		//Chat At
+		
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package conditionalStatement;
+
+public class Testing3 {
+
+	public static void main(String[] args) 
+	{
+		//Arithmetic operators
+		
+		int a=10;
+		int b=20;
+		
+		
+
+	}
+
+}

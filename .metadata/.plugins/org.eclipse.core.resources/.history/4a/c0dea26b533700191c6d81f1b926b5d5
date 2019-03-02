@@ -1,0 +1,14 @@
+package conditionalStatement;
+
+public class Testing5 {
+
+	public static void main(String[] args) 
+	{
+		String name="Anand";
+		String surname="Bhayre";
+		
+		System.out.println(name+surname);
+
+	}
+
+}
