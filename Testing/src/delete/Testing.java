@@ -16,6 +16,8 @@ public class Testing {
 		     listOfFiles[i].delete();
 		  } 
 		}
+		
+		System.out.println("Testing");
 
 	}
 
