@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="210" started-at="2019-03-24T11:01:33Z" finished-at="2019-03-24T11:01:33Z">
+    <groups>
+    </groups>
+    <test name="Test 1" duration-ms="91" started-at="2019-03-24T11:01:33Z" finished-at="2019-03-24T11:01:33Z">
+      <class name="testngAnnotations.Module1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="test1" duration-ms="9" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="Aftermethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="test2" duration-ms="3" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="test3" duration-ms="3" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="test4" duration-ms="3" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="afterClass" is-config="true" duration-ms="3" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testngAnnotations.Module1 -->
+      <class name="testngAnnotations.Module3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="test2" duration-ms="2" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:testngAnnotations.Module3@d2cc05a]" name="test1" duration-ms="2" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:2, instance:testngAnnotations.Module3@d2cc05a]" name="test3" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="test4()[pri:3, instance:testngAnnotations.Module3@d2cc05a]" name="test4" duration-ms="2" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testngAnnotations.Module3@d2cc05a]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testngAnnotations.Module3 -->
+    </test> <!-- Test 1 -->
+    <test name="Test 2" duration-ms="16" started-at="2019-03-24T11:01:33Z" finished-at="2019-03-24T11:01:33Z">
+      <class name="testngAnnotations.Module2">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testngAnnotations.Module2@5b275dab]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testngAnnotations.Module2@5b275dab]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module2@5b275dab]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testngAnnotations.Module2@5b275dab]" name="test2" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module2@5b275dab]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testngAnnotations.Module2@5b275dab]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testngAnnotations.Module2 -->
+      <class name="testngAnnotations.Module1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testngAnnotations.Module1@7dc7cbad]" name="afterSuite" is-config="true" duration-ms="9" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testngAnnotations.Module1 -->
+      <class name="testngAnnotations.Module4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testngAnnotations.Module4@61832929]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngAnnotations.Module4@61832929]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testngAnnotations.Module4@61832929]" name="test2" duration-ms="1" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngAnnotations.Module4@61832929]" name="Aftermethod" is-config="true" duration-ms="0" started-at="2019-03-24T16:31:33Z" finished-at="2019-03-24T16:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+      </class> <!-- testngAnnotations.Module4 -->
+    </test> <!-- Test 2 -->
+  </suite> <!-- Suite -->
+</testng-results>

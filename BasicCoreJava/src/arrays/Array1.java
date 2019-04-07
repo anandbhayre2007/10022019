@@ -2,6 +2,13 @@ package arrays;
 
 public class Array1 {
 
+	public String name="anand";
+	public void tes1()
+	{
+		
+	}
+	
+	
 	public static void main(String[] args) 
 	{
 		String[] str= new String[4];		
@@ -25,7 +32,15 @@ public class Array1 {
 		}
 		
 		
+		
 
 	}
 
+
+	public static Array1 fun()
+	{
+		Array1 obj=new Array1();
+		
+		return obj;
+	}
 }
